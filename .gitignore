@@ -1,0 +1,17 @@
+# виртуальная среда
+.venv/
+venv/
+
+# кэш Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# кэш тестов pytest
+.pytest_cache/
+
+# файлы IDE/редакторов
+.idea/
+.vscode/
+
+*.csv
